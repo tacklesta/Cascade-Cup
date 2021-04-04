@@ -1,2 +1,2 @@
 # Cascade-Cup
-National level Machine Learning event by IIT Guwahati and Trell
+National level Machine Learning competition by IIT Guwahati and Trell
