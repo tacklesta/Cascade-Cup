@@ -2,7 +2,7 @@
 
 National level Data Science Hackathon Organized by Consulting and Analytics Club,IIT Guwahati in collaboration with Trell.
 
-## Team Name : Blizzle Warriors
+## Team Name : Team Unicorn
 
 # Overview of the Competition
 
